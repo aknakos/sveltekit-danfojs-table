@@ -6,7 +6,7 @@ Simple Usage:
 
 ```javascript
 <script>
-	import Table from '$lib/Table.svelte';
+	import Table from '@aknakos/sveltekit-danfojs-table/Table.svelte';
 
 	// Using danfojs importing from another library which you may also need..
 	import Danfojs from '@aknakos/sveltekit-danfojs/Danfojs.svelte';
